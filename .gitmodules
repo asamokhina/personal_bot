@@ -1,0 +1,3 @@
+[submodule "emoparser"]
+	path = emoparser
+	url = https://github.com/asamokhina/emoparser
