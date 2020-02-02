@@ -55,6 +55,7 @@ def set_up_bot(config_file):
         "log_file": config["log_file"],
         "diary_file": config["diary_file"],
         "chat_id": config["chat_id"],
+        "emo_dict": config.get("emo_dict"),
         "data": data,
         "topics": topics,
     }
